@@ -5,11 +5,7 @@ A Responsive, functional replica of the Amazon website, built to simulate a real
 
 What I Learned :-
  1.Structuring large-scale React applications
-
  2.Building secure authentication and REST APIs
-
  3.Handling real-time cart logic and state across components
-
  4.Integrating third-party APIs (Stripe, Firebase)
-
  5.Deployment and environment configuration for full-stack apps
